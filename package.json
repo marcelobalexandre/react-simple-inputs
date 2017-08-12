@@ -1,0 +1,8 @@
+{
+  "name": "react-simple-inputs",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:marcelobalexandre/react-simple-inputs.git",
+  "author": "Marcelo B. Alexandre <marcelobalexandre@gmail.com>",
+  "license": "MIT"
+}
